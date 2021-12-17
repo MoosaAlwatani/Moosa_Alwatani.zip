@@ -1,6 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Contact Us</title>
-
-<img src="contactus.jpg" class="center" width="1000px" height"580px" >
